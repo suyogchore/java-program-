@@ -14,7 +14,7 @@ A simple console-based calculator program written in Java.
 - Division
 - Beginner-friendly code
 
-## Technologies Used
+## Technologies Used 
 - Java 
 - Scanner Class  
 
