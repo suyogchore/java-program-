@@ -9,7 +9,7 @@ public class Calculator {
         System.out.print("Enter first number: ");  
         int a = sc.nextInt();  
 
-        System.out.print("Enter second number: ");
+        System.out.print("Enter second number: ");  
         int b = sc.nextInt();
 
         System.out.println("\nChoose Operation:");
@@ -49,6 +49,7 @@ public class Calculator {
         sc.close();
     }
 }
+
 
 
 
