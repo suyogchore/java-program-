@@ -26,7 +26,7 @@ A simple console-based calculator program written in Java.
 
 
 
-# Simple Java Program
+# Simple Java Program  
 
 A basic Java program to demonstrate user input and output.
 
