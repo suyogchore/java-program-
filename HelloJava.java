@@ -10,7 +10,8 @@ public class HelloJava {
         String name = sc.nextLine();
 
         System.out.println("Hello, " + name + "! Welcome to Java.");
-
+     
         sc.close();
     }
 }
+
