@@ -13,7 +13,7 @@ A simple console-based calculator program written in Java.
 - Multiplication      
 - Division       
 - Beginner-friendly code          
- 
+  
 ## Technologies Used     
 - Java   
 - Scanner Class   
