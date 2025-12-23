@@ -26,4 +26,17 @@ A simple console-based calculator program written in Java.
 
 
 
+# Simple Java Program
+
+A basic Java program to demonstrate user input and output.
+
+## How to Run
+1. Compile:
+   javac HelloJava.java
+2. Run:
+   java HelloJava
+
+
+
+
  
