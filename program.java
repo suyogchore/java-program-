@@ -13,7 +13,7 @@ class Student {
 
         sc.nextLine(); // clear buffer
 
-        System.out.print("Enter Student Name: ");
+        System.out.print("Enter Student Name: ");  
         name = sc.nextLine();
 
         System.out.print("Enter Student Age: ");
@@ -38,6 +38,7 @@ public class StudentManagement {
         System.out.println("\nProgram executed successfully.");
     }
 }
+
 
 
 
