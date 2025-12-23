@@ -18,7 +18,7 @@ A simple console-based calculator program written in Java.
 - Java  
 - Scanner Class   
    
-## How to Run
+## How to Run 
 1. Compile the program:
    javac Calculator.java
 2. Run the program:
