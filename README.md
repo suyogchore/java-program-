@@ -11,7 +11,7 @@ A simple console-based calculator program written in Java.
 - Addition    
 - Subtraction   
 - Multiplication
-- Division 
+- Division  
 - Beginner-friendly code
 
 ## Technologies Used 
