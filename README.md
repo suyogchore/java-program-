@@ -15,7 +15,7 @@ A simple console-based calculator program written in Java.
 - Beginner-friendly code
 
 ## Technologies Used 
-- Java 
+- Java  
 - Scanner Class  
 
 ## How to Run
