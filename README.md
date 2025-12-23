@@ -6,7 +6,7 @@ A simple Java console-based project that takes student details as input and disp
 Basic Java console application for arithmetic operations.     
   
 A simple console-based calculator program written in Java.   
-                                                     
+                                                      
 ## Features                                                                                                                                      
 - Addition          
 - Subtraction         
