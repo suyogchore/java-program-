@@ -8,7 +8,7 @@ class Student {
     void input() {  
         Scanner sc = new Scanner(System.in);  
     
-        System.out.print("Enter Student ID: ");
+        System.out.print("Enter Student ID: ");       
         id = sc.nextInt();
 
         sc.nextLine(); // clear buffer
@@ -38,6 +38,7 @@ public class StudentManagement {
         System.out.println("\nProgram executed successfully.");
     }
 }
+
 
 
 
