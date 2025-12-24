@@ -2,7 +2,7 @@
 A simple Java console-based project that takes student details as input and displays them. This project helps in understanding basic Java concepts like classes, objects, methods, and user input.         
         
 # Simple Calculator (Java)                  
-        
+          
 Basic Java console application for arithmetic operations.                                      
                  
 A simple console-based calculator program written in Java.                                           
