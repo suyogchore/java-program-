@@ -7,7 +7,7 @@ Basic Java console application for arithmetic operations.
                                 
 A simple console-based calculator program written in Java.                                                   
                                                                                                                          
-## Features                                                                                                                                                                                                                                                                                                                    
+## Features                                                                                                                                                                                                                                                                                                                     
 - Addition                                                                                                                                                                               
 - Subtraction                                         
 - Multiplication                                            
