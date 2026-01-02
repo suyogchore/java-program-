@@ -9,7 +9,7 @@ A simple console-based calculator program written in Java.
                                                                                                                             
 ## Features                                                                                                                                                                                                                                                                                                                                 
 - Addition                                                                                                                                                                                        
-- Subtraction                                         
+- Subtraction                                           
 - Multiplication                                            
 - Division                       
 - Beginner-friendly code                   
