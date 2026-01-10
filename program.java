@@ -5,7 +5,7 @@ class Student {
     String name;
     int age;
                        
-    void input() {  
+    void input() {    
         Scanner sc = new Scanner(System.in);  
     
         System.out.print("Enter Student ID: ");       
@@ -38,6 +38,7 @@ public class StudentManagement {
         System.out.println("\nProgram executed successfully.");
     }
 }
+
 
 
 
