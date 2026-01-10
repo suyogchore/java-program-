@@ -12,9 +12,10 @@ public class EvenOdd {
         if (num % 2 == 0) {
             System.out.println(num + " is Even");
         } else {
-            System.out.println(num + " is Odd");
+            System.out.println(num + " is Odd");   
         }
 
         sc.close();
     }
 }
+
