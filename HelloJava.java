@@ -12,9 +12,10 @@ public class HelloJava {
         System.out.println("Hello, " + name + "! Welcome to Java.");
        
         sc.close();
-    }
+    }        
 }
      
+
 
 
 
