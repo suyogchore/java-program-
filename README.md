@@ -12,7 +12,7 @@ A simple console-based calculator program written in Java.
 - Subtraction                                                       
 - Multiplication                                                            
 - Division                                      
-- Beginner-friendly code                         
+- Beginner-friendly code                            
                 
 ## Technologies Used             
 - Java   
